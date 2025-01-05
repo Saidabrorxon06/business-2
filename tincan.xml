@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://L8yJ9BrknYNh62rfYIvsXBPmsDH9fIaf_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">AH1-Manager</name>
+      <description lang="en-US">&lt;span style=&#34;font-size: 16px;&#34;&gt;A manager is an individual that supervises both activities and people within a given organization. In other terms, it is the person in charge of overseeing things that to get done.&lt;/span&gt;&lt;span style=&#34;font-size: 16px;&#34;&gt;The concept or figure of a manager is mostly related to business environments. Nonetheless, the managing function can be extended to different spheres by applying the underlying concept.&amp;nbsp;&lt;/span&gt;&lt;span style=&#34;font-size: 16px;&#34;&gt;A manager is someone that has the responsibility of getting things done. He normally manages both people and resources (physical resources or economic resources, among others). He has to plan, organize, execute and control all the activities he has been delegated with by using all available resources to do it effectively. Managers normally have enough authority to require and dispose resources as needed.&lt;/span&gt;</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://L8yJ9BrknYNh62rfYIvsXBPmsDH9fIaf_rise/-VogLWCQhhHoSEGXKFFaKt3XW0cU0ygG" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Types and levels of managers/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://L8yJ9BrknYNh62rfYIvsXBPmsDH9fIaf_rise/o_RZLefWTNP6coFKDvea4J72YaqPVIJs" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Management process/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://L8yJ9BrknYNh62rfYIvsXBPmsDH9fIaf_rise/ih0qNcwa2sbHLTec6UU5_xO8UuC_sioo" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Managerial roles/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://L8yJ9BrknYNh62rfYIvsXBPmsDH9fIaf_rise/yFUmVTnWwy8tXIsM-hsDpme-VcZDG8GR" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Five Key Management Skills/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://L8yJ9BrknYNh62rfYIvsXBPmsDH9fIaf_rise/jR6pTPqphXXQQ9-F-Y1C0cVNZP3a_t-D" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Evolution of management phylosophy/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://L8yJ9BrknYNh62rfYIvsXBPmsDH9fIaf_rise/p908LFofpsiQJ2I5TccN2jVYziNAbHu_" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Information technology and not only/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+        </activities>
+</tincan>
